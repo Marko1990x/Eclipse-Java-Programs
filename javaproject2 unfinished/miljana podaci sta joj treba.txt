@@ -1,0 +1,21 @@
+ime 
+prezime
+datum rodjenja
+jmbg
+zanimnje
+gde radi zanimanje
+bolesti
+alergije
+
+
+
+// posebna klasa
+zubi gornji levi desni donji levi desni
+
+
+//posebna klasa
+slike 
+
+
+
+// popravi da se local date automatski upisuje preko metode

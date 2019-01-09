@@ -1,0 +1,8 @@
+11;200.0;02.02.2020.;stap;za pecanje;20
+12;250.0;02.02.2019.;masinica;za brijanje;2010
+13;500.0;04.04.2015.;udica;za pecanje;200
+15;230.0;02.02.2020.;mamac;za ribu;1000
+40;30.0;05.05.2020.;najlon;za stap ;1000
+10;200.0;02.02.2182.;ostalo;razni sitnis za opremu;200
+20;150.0;02.02.2015.;stap;za pecanje;200
+24;600.0;05.06.1990.;masinica;pomocna oprema;30
